@@ -1,0 +1,60 @@
+body {background-color:hotpink;}
+
+.Principal p {font-family: 'Roboto', sans-serif;} 
+
+.Principal {color: black;
+	font-family: Pacifico, cursive;
+	height:280px;
+	width:800px; 
+	background-color:hotpink;;
+border-radius: 20%;
+border-width: 2px;
+padding:40px; 
+margin:10px;}
+
+
+
+
+.secundario {color:black;
+	background-color:antiquewhite;
+   height: 430px;
+    widht:600px;
+border-radius: 10%;
+	border-style:dotted;
+	border-color:lightpink;
+padding:30px; 
+margin:20px;}
+
+.Terciario
+{background-color:hotpink;
+height: 460px;
+width: 600px;
+border-width: 2px;
+padding:20px; 
+margin:5px;
+border-radius: 10%;
+display: inline-block;
+font-display: inline-block;
+}
+
+.Principal img  {float:left;
+padding:15px;
+margin:10px}
+
+.Principal {padding-block:1px;
+margin: 200px}
+.secundario 
+
+.Portafolio {
+   height: 620px;
+    widht:800px;
+border-style:dotted;
+border-width: 2px;
+border-color: lightpink;
+background-color: antiquewhite;
+border-radius: 10%;
+padding:45px; 
+margin:1px;}
+
+.button {border-color: hotpink;}
+
